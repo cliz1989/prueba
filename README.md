@@ -1,2 +1,1 @@
-# prueba
-prueba repositorio 2023
+ejemplo de como se crea un proyecto con github y clonarlo
